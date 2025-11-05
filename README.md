@@ -64,4 +64,4 @@ All data is used for **educational purposes** only.
 
 ## 👤 Author
 **Krish @ IIT Roorkee**  
-Marketing Head, GDSC | NLP & AI Enthusiast
+NLP & AI Enthusiast
