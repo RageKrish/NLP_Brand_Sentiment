@@ -62,6 +62,47 @@ All data is used for **educational purposes** only.
 
 ---
 
+## ▶️ How to Run the Streamlit App
+
+You can explore the project interactively using **Streamlit**.
+
+### 🧭 Steps
+
+1. **Open a terminal** (Git Bash or CMD) inside your project folder:
+   ```bash
+   cd ~/Desktop/NLP_Brand_Sentiment
+Activate your virtual environment:
+
+bash
+
+source venv/Scripts/activate   # For Git Bash
+# or
+venv\Scripts\activate          # For CMD or PowerShell
+Move into the Streamlit folder:
+
+bash
+
+cd streamlit_app
+Run the app:
+
+bash
+
+streamlit run app.py
+After a few seconds, Streamlit will automatically open in your browser at
+👉 http://localhost:8501
+
+💡 Example
+Enter any brand name (e.g., Flipkart, Apple, Tesla) to:
+
+Fetch recent news & Reddit posts
+
+Analyze their sentiment in real time
+
+Visualize insights with charts and word clouds
+
+
+---
+
 ## 👤 Author
 **Krish @ IIT Roorkee**  
 NLP & AI Enthusiast
